@@ -1,0 +1,9 @@
+.slider-filter {
+    filter: brightness(80%);
+}
+
+@media only screen and (max-width:688px) {
+    .slider-filter {
+        height: 300px;
+    }
+}
